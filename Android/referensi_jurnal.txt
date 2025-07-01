@@ -1,0 +1,21 @@
+--Referensi untuk Parameter--
+1. Usia
+https://www.cdc.gov/diabetes/risk-factors/index.html
+
+2. BMI
+https://www.mdpi.com/1422-0067/25/3/1882
+
+3. Tekanan Darah
+https://onlinelibrary.wiley.com/doi/full/10.1155/2022/7311950
+
+4. Glukosa
+https://diabetes.org/about-diabetes/diagnosis
+
+5. Faktor Genetik
+https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/diabetes-risk-factors
+
+6. Aktifitas Fisik
+https://www.diabetes.org.uk/about-diabetes/type-2-diabetes/diabetes-risk-factors
+
+--Referensi untuk Model MLP--
+1. https://dergipark.org.tr/en/pub/jcs/issue/55836/754401
